@@ -22,6 +22,16 @@
 🎨 Designed with an eye for clarity and crafted with scalable architecture.
 
 ---
+## 💼 Featured Projects Portfolio
+
+### 🤖 [**AI Chatbot**](https://github.com/ShivamMaurya2002/AI-Chatbot)  
+A sleek and responsive conversational web application built to deliver an engaging chat experience.  
+**Tech Stack:** HTML • CSS • JavaScript • Python   
+🔍 Features: theme toggle (Light/Dark), responsive UI, real-time chat powered by LLM integration. :contentReference[oaicite:0]{index=0}
+
+
+
+---
 
 ## 🧰 Libraries & Tools  
 
@@ -69,8 +79,7 @@
 ## 🏆 Achievements  
 
 🏗️ Built **Documint** from scratch with full branding & modular architecture  
-🌈 Developed reusable UI components for faster dev cycles  
-🧩 Contributed to open-source markdown and UI projects  
+🌈 Developed reusable UI components for faster dev cycles   
 🎯 Always learning, building, and refining craftsmanship  
 
 ---
